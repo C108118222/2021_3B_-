@@ -1,6 +1,6 @@
 # 2021_3B_第四組
 # 題目：LineBot智慧食價食譜
-# 快速連結作業 -> ｜ [作業一](#作業一) ｜ [作業二](#作業二) ｜ [作業三](#作業三) ｜
+# 快速連結作業 -> ｜ [作業一](#作業一) ｜ [作業二](#作業二) ｜ [作業三](#作業三) ｜ [作業四](#作業四) ｜
 ## 作業一
 ### 目標：
 本提案的主要目的為讓使用者透過Line Bot輕鬆了解農產品的市價，不只如此，還能自動推薦最經濟實惠的菜單供使用者參考購買。<br>
@@ -161,3 +161,15 @@ C108118240 楊翔鴻
 ## 作業三
 ## DFD圖
 ![DFD](DFD.jpg "DFD")
+
+***
+## 作業四
+## UML圖
+![UML](UML.jpg "UML")
+
+## 循序圖與活動圖（1）
+![sequence_activity_diagram_1](sequence_activity_diagram_1.jpg "sequence_activity_diagram_1")
+## 循序圖與活動圖（2）
+![sequence_activity_diagram_2](sequence_activity_diagram_2.jpg "sequence_activity_diagram_2")
+## 循序圖與活動圖（3）
+![sequence_activity_diagram_3](sequence_activity_diagram_3.jpg "sequence_activity_diagram_3")
